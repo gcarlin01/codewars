@@ -1,0 +1,23 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "my solutions to codewars katas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcarlin01/codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcarlin01/codewars/issues"
+  },
+  "homepage": "https://github.com/gcarlin01/codewars#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}
